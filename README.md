@@ -6,5 +6,5 @@ npm run build 打包
 <br/>
 项目截图：
 
-<img style="width:365px" src="http://cppics.b0.upaiyun.com/react/shopping-react01.png"/>
-<img style="width:365px" src="http://cppics.b0.upaiyun.com/react/shopping-react02.png"/>
+<p style="width:365px"><img  src="http://cppics.b0.upaiyun.com/react/shopping-react01.png"/></p>
+<p style="width:365px"><img  src="http://cppics.b0.upaiyun.com/react/shopping-react02.png"/></p>
